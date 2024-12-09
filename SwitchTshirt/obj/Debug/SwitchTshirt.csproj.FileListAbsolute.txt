@@ -1,0 +1,7 @@
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\bin\Debug\SwitchTshirt.exe.config
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\bin\Debug\SwitchTshirt.exe
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\bin\Debug\SwitchTshirt.pdb
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\obj\Debug\SwitchTshirt.csproj.AssemblyReference.cache
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\obj\Debug\SwitchTshirt.csproj.CoreCompileInputs.cache
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\obj\Debug\SwitchTshirt.exe
+C:\ProJect\Learn class\C\HelloWorld\SwitchTshirt\obj\Debug\SwitchTshirt.pdb

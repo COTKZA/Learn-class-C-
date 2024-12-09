@@ -1,0 +1,7 @@
+C:\ProJect\Learn class\C\HelloWorld\Swap\bin\Debug\Swap.exe.config
+C:\ProJect\Learn class\C\HelloWorld\Swap\bin\Debug\Swap.exe
+C:\ProJect\Learn class\C\HelloWorld\Swap\bin\Debug\Swap.pdb
+C:\ProJect\Learn class\C\HelloWorld\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+C:\ProJect\Learn class\C\HelloWorld\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\ProJect\Learn class\C\HelloWorld\Swap\obj\Debug\Swap.exe
+C:\ProJect\Learn class\C\HelloWorld\Swap\obj\Debug\Swap.pdb

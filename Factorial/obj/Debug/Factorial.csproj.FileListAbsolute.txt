@@ -1,0 +1,7 @@
+C:\ProJect\Learn class\C\HelloWorld\Factorial\bin\Debug\Factorial.exe.config
+C:\ProJect\Learn class\C\HelloWorld\Factorial\bin\Debug\Factorial.exe
+C:\ProJect\Learn class\C\HelloWorld\Factorial\bin\Debug\Factorial.pdb
+C:\ProJect\Learn class\C\HelloWorld\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\ProJect\Learn class\C\HelloWorld\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\ProJect\Learn class\C\HelloWorld\Factorial\obj\Debug\Factorial.exe
+C:\ProJect\Learn class\C\HelloWorld\Factorial\obj\Debug\Factorial.pdb
